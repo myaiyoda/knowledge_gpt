@@ -20,7 +20,8 @@ def clear_submit():
 
 
 st.set_page_config(page_title="KnowledgeGPT", page_icon="📖", layout="wide")
-st.header("📖KnowledgeGPT")
+# st.header("📖KnowledgeGPT")
+st.header("📖SK-KGPT")
 
 sidebar()
 
